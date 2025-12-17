@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://arxiv.org/pdf/2410.04417">
-    <img src="https://img.shields.io/badge/arXiv-2410.04417-b31b1b?logo=arxiv&logoColor=white">
+    <img src="https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&logoColor=white">
   </a>
   <a href="https://github.com/Gumpest/SparseVLMs/tree/v1.5">
     <img src="https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white">
@@ -22,8 +22,8 @@
 *Peking University, Tsinghua University*<br>
 
 <p align="left">
-  <a href="https://arxiv.org/pdf/2410.04417">
-    <img src="https://img.shields.io/badge/arXiv-2410.04417-b31b1b?logo=arxiv&logoColor=white">
+  <a href="https://www.researchgate.net/publication/398766915_SparseVLM_Visual_Token_Sparsification_with_Improved_Text-Visual_Attention_Pattern">
+    <img src="https://img.shields.io/badge/ResearchGate-b31b1b?logo=arxiv&logoColor=white">
   </a>
   <a href="https://github.com/Gumpest/SparseVLMs">
     <img src="https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white">
@@ -161,10 +161,11 @@ If you use SparseVLM in your research, please cite our work by using the followi
 ```
 
 ```bibtex
-@inproceedings{zhang2025sparsevlmplus,
-  title={SparseVLM+: Visual Token Sparsification with Improved Text-Visual Attention Pattern},
+@techreport{zhang2025sparsevlmplus,
+  title = {SparseVLM+: Visual Token Sparsification with Improved Text-Visual Attention Pattern},
   author={Zhang, Yuan and Ma, Junpeng and Zhang, Qizhe and Fan, Chun-Kai and Zheng, Wenzhao and Cheng, Kuan and Lu, Jiwen and Zhang, Shanghang},
-  year={2025}
+  doi = {10.13140/RG.2.2.23016.53763},
+  url = {https://doi.org/10.13140/RG.2.2.23016.53763}
 }
 
 ```
