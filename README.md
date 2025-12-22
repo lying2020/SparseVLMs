@@ -161,11 +161,9 @@ If you use SparseVLM in your research, please cite our work by using the followi
 ```
 
 ```bibtex
-@techreport{zhang2025sparsevlmplus,
-  title = {SparseVLM+: Visual Token Sparsification with Improved Text-Visual Attention Pattern},
-  author={Zhang, Yuan and Ma, Junpeng and Zhang, Qizhe and Fan, Chun-Kai and Zheng, Wenzhao and Cheng, Kuan and Lu, Jiwen and Zhang, Shanghang},
-  doi = {10.13140/RG.2.2.23016.53763},
-  url = {https://doi.org/10.13140/RG.2.2.23016.53763}
+@article{zhangsparsevlm+,
+  title={SparseVLM+: Visual Token Sparsification with Improved Text-Visual Attention Pattern},
+  author={Zhang, Yuan and Ma, Junpeng and Zhang, Qizhe and Fan, Chun-Kai and Zheng, Wenzhao and Cheng, Kuan and Lu, Jiwen and Zhang, Shanghang}
 }
 
 ```
