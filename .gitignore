@@ -17,7 +17,7 @@ playground
 # Editor
 .idea
 *.swp
-
+source_images
 # Other
 .DS_Store
 wandb
